@@ -1,5 +1,7 @@
 # Protobuf
 
+Importantly, the protocol buffer format supports the idea of extending the format over time in such a way that the code can still read data encoded with the old format.
+
 ## Installation
 
 1. Install a pre-built binary protocol **compiler** `protoc` [link](https://github.com/protocolbuffers/protobuf/blob/main/README.md#protocol-compiler-installation) to compile `addressbook.proto` to `python`.
