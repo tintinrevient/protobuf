@@ -24,6 +24,12 @@ $ python add_person.py registry.db
 3. List all the people:
 ```bash
 $ python list_people.py registry.db
+
+Person ID: 1
+  Name: shu
+  E-mail address: shu@google.com
+  Mobile phone #: 123
+  Home phone #: 456
 ```
 
 ## References
