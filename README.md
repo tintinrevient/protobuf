@@ -32,6 +32,11 @@ Person ID: 1
   Home phone #: 456
 ```
 
+4. Delete the first person:
+```bash
+$ python delete_person.py registry.db 
+```
+
 ## References
 
 * https://docs.feast.dev/getting-started/architecture-and-components/registry
