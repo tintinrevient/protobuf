@@ -47,3 +47,4 @@ $ python delete_person.py registry.db
 * https://github.com/protocolbuffers/protobuf/tree/main/examples
 * https://github.com/protocolbuffers/protobuf/releases  
 * https://databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html
+* https://github.com/confluentinc/schema-registry
